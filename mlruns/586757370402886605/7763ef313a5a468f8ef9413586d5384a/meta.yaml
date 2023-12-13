@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sahma/Desktop/Model_to_Production/image_classification/mlruns/586757370402886605/7763ef313a5a468f8ef9413586d5384a/artifacts
+end_time: 1691410606259
+entry_point_name: ''
+experiment_id: '586757370402886605'
+lifecycle_stage: active
+run_id: 7763ef313a5a468f8ef9413586d5384a
+run_name: adorable-hog-898
+run_uuid: 7763ef313a5a468f8ef9413586d5384a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691410542821
+status: 3
+tags: []
+user_id: sahma

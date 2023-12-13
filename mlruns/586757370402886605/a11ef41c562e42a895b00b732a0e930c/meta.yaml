@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sahma/Desktop/Model_to_Production/image_classification/mlruns/586757370402886605/a11ef41c562e42a895b00b732a0e930c/artifacts
+end_time: 1691411244047
+entry_point_name: ''
+experiment_id: '586757370402886605'
+lifecycle_stage: active
+run_id: a11ef41c562e42a895b00b732a0e930c
+run_name: merciful-roo-614
+run_uuid: a11ef41c562e42a895b00b732a0e930c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691411168249
+status: 3
+tags: []
+user_id: sahma

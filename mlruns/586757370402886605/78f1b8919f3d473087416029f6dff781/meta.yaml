@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sahma/Desktop/Model_to_Production/image_classification/mlruns/586757370402886605/78f1b8919f3d473087416029f6dff781/artifacts
+end_time: 1691410008968
+entry_point_name: ''
+experiment_id: '586757370402886605'
+lifecycle_stage: active
+run_id: 78f1b8919f3d473087416029f6dff781
+run_name: salty-bear-997
+run_uuid: 78f1b8919f3d473087416029f6dff781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691409943106
+status: 3
+tags: []
+user_id: sahma

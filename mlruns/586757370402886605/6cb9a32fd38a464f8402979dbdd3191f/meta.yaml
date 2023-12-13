@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sahma/Desktop/Model_to_Production/image_classification/mlruns/586757370402886605/6cb9a32fd38a464f8402979dbdd3191f/artifacts
+end_time: 1691410835328
+entry_point_name: ''
+experiment_id: '586757370402886605'
+lifecycle_stage: active
+run_id: 6cb9a32fd38a464f8402979dbdd3191f
+run_name: exultant-lynx-641
+run_uuid: 6cb9a32fd38a464f8402979dbdd3191f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691410759224
+status: 3
+tags: []
+user_id: sahma

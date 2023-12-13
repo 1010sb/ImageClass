@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sahma/Desktop/Model_to_Production/image_classification/mlruns/586757370402886605/b60729bda1c049be8dd9de0c52b80d47/artifacts
+end_time: 1691411879761
+entry_point_name: ''
+experiment_id: '586757370402886605'
+lifecycle_stage: active
+run_id: b60729bda1c049be8dd9de0c52b80d47
+run_name: salty-gull-89
+run_uuid: b60729bda1c049be8dd9de0c52b80d47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691411808892
+status: 3
+tags: []
+user_id: sahma

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sahma/Desktop/Model_to_Production/image_classification/mlruns/586757370402886605/c9efc9e12e8d4c7c846d2c2805695cd5/artifacts
+deleted_time: 1691411164694
+end_time: 1691411096934
+entry_point_name: ''
+experiment_id: '586757370402886605'
+lifecycle_stage: deleted
+run_id: c9efc9e12e8d4c7c846d2c2805695cd5
+run_name: indecisive-skunk-86
+run_uuid: c9efc9e12e8d4c7c846d2c2805695cd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691411016385
+status: 3
+tags: []
+user_id: sahma
